@@ -4,7 +4,7 @@
  */
 
 /*!
-  * vue-router v3.1.6
+  * vue-router v3.4.3
   * (c) 2020 Evan You
   * @license MIT
   */
@@ -25,8 +25,8 @@
  */
 
 /*!
- * Vue.js v2.6.11
- * (c) 2014-2019 Evan You
+ * Vue.js v2.6.12
+ * (c) 2014-2020 Evan You
  * Released under the MIT License.
  */
 
@@ -40,12 +40,6 @@
 /*!
  * vue-client-only v2.0.0
  * (c) 2019-present egoist <0x142857@gmail.com>
- * Released under the MIT License.
- */
-
-/*!
- * vue-i18n v8.17.7 
- * (c) 2020 kazuya kawaguchi
  * Released under the MIT License.
  */
 
@@ -65,3 +59,9 @@
  * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
  * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
  */
+
+//! moment.js
+
+//! moment.js language configuration
+
+//! moment.js locale configuration
